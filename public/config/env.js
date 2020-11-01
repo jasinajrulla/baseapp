@@ -1,10 +1,10 @@
 window.env = {
     api: {
-        authUrl: 'https://www.nmt.exchange/api/v2/barong',
-        tradeUrl: 'https://www.nmt.exchange/api/v2/peatio',
-        applogicUrl: 'https://www.nmt.exchange/api/v2/applogic',
-        rangerUrl: 'ws://www.nmt.exchange/api/v2/ranger',
-        finexUrl: 'https://www.nmt.exchange/api/v2/finex',
+        authUrl: 'https://trade.novadefi.com/api/v2/barong',
+        tradeUrl: 'https://trade.novadefi.com/api/v2/peatio',
+        applogicUrl: 'https://trade.novadefi.com/api/v2/applogic',
+        rangerUrl: 'ws://trade.novadefi.com/api/v2/ranger',
+        finexUrl: 'https:/trade.novadefi.com/api/v2/finex',
     },
     minutesUntilAutoLogout: '5',
     withCredentials: false,
