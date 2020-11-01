@@ -4,7 +4,7 @@ window.env = {
         tradeUrl: 'https://trade.novadefi.com/api/v2/peatio',
         applogicUrl: 'https://trade.novadefi.com/api/v2/applogic',
         rangerUrl: 'ws://trade.novadefi.com/api/v2/ranger',
-        finexUrl: 'https:/trade.novadefi.com/api/v2/finex',
+        finexUrl: 'https://trade.novadefi.com/api/v2/finex',
     },
     minutesUntilAutoLogout: '5',
     withCredentials: false,
